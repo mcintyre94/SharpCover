@@ -1,3 +1,5 @@
+This fork is only tested/used on Windows
+
 #SharpCover
 [![Build Status](https://travis-ci.org/gaillard/SharpCover.png)](https://travis-ci.org/gaillard/SharpCover)
 
